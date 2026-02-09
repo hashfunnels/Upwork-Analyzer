@@ -1,0 +1,5 @@
+{
+  "name": "Upwork Opportunity Analyzer 2.0",
+  "description": "A high-end analysis tool for Upwork freelancers to evaluate job postings and client profiles using Gemini AI.",
+  "requestFramePermissions": []
+}
